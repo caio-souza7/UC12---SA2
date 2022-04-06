@@ -1,0 +1,32 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolvedor Windows",
+      "foto": "foto1.jpg",
+      "descricao": "programador para desenvolver o windows",
+      "salario": "50000"
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolvedor Apple",
+      "foto": "foto2.jpg",
+      "descricao": "programador para desenvolver ios",
+      "salario": "50000"
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolvedor Google",
+      "foto": "foto3.jpg",
+      "descricao": "programador para desenvolver googleplay",
+      "salario": "50000"
+    },
+    {
+      "id": "4",
+      "nome": "Desenvolvedor Facebook",
+      "foto": "foto4.jpg",
+      "descricao": "O cara que inventou o react",
+      "salario": "50000"
+    }
+  ]
+}
